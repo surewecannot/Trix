@@ -1,0 +1,3 @@
+-- Trix foundation migration. The database for this project has already been provisioned in Supabase.
+-- This file is retained as the portable source-of-truth for future self-hosted deployments.
+-- See the previously applied foundation migration in your Supabase project for the full schema.

@@ -1,0 +1,2 @@
+import {PageHeader} from '@/components/page-header';
+export default function Page(){const title='Leads';return <><PageHeader title={title} subtitle="Manage this area of your workspace." action={<button className="primary">+ Add {title.slice(0,-1)}</button>}/><section className="card empty"><div className="empty-icon">✦</div><h2>Your {p} will appear here</h2><p>Connect this screen to your Trix database and start managing real records.</p><button className="secondary">Create your first record</button></section></>}
